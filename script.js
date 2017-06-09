@@ -1,21 +1,44 @@
-//The line below says that once everything is loaded in the browser, run the code inside the {}
+//The line below says that once the webpage is loaded in the browser, run the code between the {}
 document.addEventListener('DOMContentLoaded', function() {
-
-
-var variable = " VARIABLE GOES HERE"
+// ______________________________________________________//
+//// We have defined a few javascript variables below////
+// ______________________________________________________//
+var putYourVariableHere = ""
 var happy = ", how are you!? I'm so happy.";
 var sad = ", how are you? I'm having a bad day.";
-var greeting = ", wasssssuppp!?";
+var greeting = "Hey, wasssssuppp";
 var negativeFive = -5
 var two = 2;
 var eight = 8;
+// ______________________________________________________//
+// ______________________________________________________//
+//REPLACE putYourVariable Here with one of the variables above so that the console.log prints out what is on the right of the ==.
+// ______________________________________________________//
+// ______________________________________________________//
+console.log(10 * putYourVariableHere) == -50;
+console.log("Hello" + putYourVariableHere) == "Hello, how are you!? I'm so happy.";
+console.log(82 - putYourVariableHere) == 80;
+console.log(putYourVariableHere + "!?!?!") == "Hey, wasssssuppp!?!?!"
+console.log("Hello" + putYourVariableHere) == "Hello, how are you? I'm having a bad day.";
 
-//REPLACE the word variable with one of the varibales above so that the console.log prints out what is on the right of the ==.
-console.log(10 * variable) == -50;
-console.log("Hello" + variable) == "Hello, how are you!? I'm so happy.";
-console.log("Hello" + variable) == "Hello, how are you? I'm having a bad day.";
-console.log(82 - variable) == 80;
 
+//Create your own varibales to use below.
+
+
+
+
+  console.log("Hi" + putYourVariableHere) == "Hi, I'm a coder!"
+  console.log(putYourVariableHere / 10) == 8
 });
+// ______________________________________________________//
+// ______________________________________________________//
+//Jot down a few thoughts on why you think variables are important to programming below.
+/*
 
-//Jot down a few thoughts on why you think variables are important in programming below.
+
+
+
+
+
+*/
+// ______________________________________________________//
