@@ -27,6 +27,7 @@ console.log("Hello" + putYourVariableHere) == "Hello, how are you? I'm having a 
 
 
 
+
   console.log("Hi" + putYourVariableHere) == "Hi, I'm a coder!"
   console.log(putYourVariableHere / 10) == 8
 });
