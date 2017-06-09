@@ -12,7 +12,7 @@ var two = 2;
 var eight = 8;
 // ______________________________________________________//
 // ______________________________________________________//
-//REPLACE putYourVariable Here with one of the variables above so that the console.log prints out what is on the right of the ==.
+//REPLACE putYourVariable Here with one of the variables above so that the console.log prints out what is on the right of the ==. Refresh the chrome to make sure you are console logging the correct statement each time.
 // ______________________________________________________//
 // ______________________________________________________//
 console.log(10 * putYourVariableHere) == -50;
