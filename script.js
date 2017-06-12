@@ -12,7 +12,7 @@ var two = 2;
 var eight = 8;
 // ______________________________________________________//
 // ______________________________________________________//
-//REPLACE putYourVariable Here with one of the variables above so that the console.log prints out what is on the right of the ==. Refresh the chrome to make sure you are console logging the correct statement each time.
+// REPLACE putYourVariableHere with one of the variables above so that the console.log prints out what is on the right of the ==. Refresh the webpage to make sure you are console logging the correct statement each time.
 // ______________________________________________________//
 // ______________________________________________________//
 console.log(10 * putYourVariableHere) == -50;
@@ -22,15 +22,16 @@ console.log(putYourVariableHere + "!?!?!") == "Hey, wasssssuppp!?!?!"
 console.log("Hello" + putYourVariableHere) == "Hello, how are you? I'm having a bad day.";
 
 
-//Create your own varibales to use below.
+// Create your own varibales to use below.
 
 
 
 
-
+// Use the variables you created to complete the equalities below.
   console.log("Hi" + putYourVariableHere) == "Hi, I'm a coder!"
   console.log(putYourVariableHere / 10) == 8
 });
+
 // ______________________________________________________//
 // ______________________________________________________//
 //Jot down a few thoughts on why you think variables are important to programming below.
