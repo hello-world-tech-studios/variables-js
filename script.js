@@ -18,7 +18,7 @@ var eight = 8;
 console.log(10 * putTheVariableHere) == -50;
 console.log("Hello" + putTheVariableHere) == "Hello, how are you!? I'm so happy.";
 console.log(82 - putTheVariableHere) == 80;
-console.log(putTheVariableHere + "!?!?!") == "Hey, wasssssuppp!?!?!"
+console.log(putTheVariableHere + "!?!?!") == "Hey, wasssssuppp!?!?!";
 console.log("Hello" + putTheVariableHere) == "Hello, how are you? I'm having a bad day.";
 
 
@@ -28,8 +28,8 @@ console.log("Hello" + putTheVariableHere) == "Hello, how are you? I'm having a b
 
 
 // Use the variables you created to complete the equalities below.
-  console.log("Hi" + putTheVariableHere) == "Hi, I'm a coder!"
-  console.log(putYourVariableHere / 10) == 8
+  console.log("Hi" + putTheVariableHere) == "Hi, I'm a coder!";
+  console.log(putTheVariableHere / 10) == 8;
 });
 
 // ______________________________________________________//
