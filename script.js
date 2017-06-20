@@ -37,7 +37,10 @@ var eighty=80;
 // ______________________________________________________//
 //Jot down a few thoughts on why you think variables are important to programming below.
 /*
-
+Variables are important because they let the computer know what to pay attention to and what to add. 
+If you don't add a variable, the computer might get confused and you may not get the correct answer that you need.
+Like if you put var greeting in line 20 would get a completley different answer or you may break the code, so 
+putting the correct variable in the code is important.
 
 
 
