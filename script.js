@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // ______________________________________________________//
 //// We have defined a few javascript variables below////
 // ______________________________________________________//
-var putTheVariableHere = ""
+var coder = ", I'm a coder!"
 var happy = ", how are you!? I'm so happy.";
 var sad = ", how are you? I'm having a bad day.";
 var greeting = "Hey, wasssssuppp";
@@ -15,21 +15,21 @@ var eight = 8;
 // REPLACE putTheVariableHere with one of the variables above so that the console.log prints out what is on the right of the ==. Refresh the webpage to make sure you are console logging the correct statement each time.
 // ______________________________________________________//
 // ______________________________________________________//
-console.log(10 * putTheVariableHere) == -50;
-console.log("Hello" + putTheVariableHere) == "Hello, how are you!? I'm so happy.";
-console.log(82 - putTheVariableHere) == 80;
-console.log(putTheVariableHere + "!?!?!") == "Hey, wasssssuppp!?!?!"
-console.log("Hello" + putTheVariableHere) == "Hello, how are you? I'm having a bad day.";
+console.log(10 * negativeFive) == -50;
+console.log("Hello" + happy) == "Hello, how are you!? I'm so happy.";
+console.log(82 - two) == 80;
+console.log(greeting + "!?!?!") == "Hey, wasssssuppp!?!?!"
+console.log("Hello" + sad) == "Hello, how are you? I'm having a bad day.";
 
 
 // Create your own varibales to use below.
 
-
+var eighty = 80
 
 
 // Use the variables you created to complete the equalities below.
-  console.log("Hi" + putTheVariableHere) == "Hi, I'm a coder!"
-  console.log(putYourVariableHere / 10) == 8
+  console.log("Hi" + coder) == "Hi, I'm a coder!"
+  console.log(eighty / 10) == 8
 });
 
 // ______________________________________________________//
